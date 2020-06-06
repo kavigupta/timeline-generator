@@ -9,9 +9,11 @@ OVERALL = """
 
 <svg
     xmlns="http://www.w3.org/2000/svg"
+    width="{w}"
+    height="{h}"
     viewBox="{x0} {y0} {w} {h}"
     version="1.1">
-<rect x="-100000" y="-100000" width="1000000" height="1000000" fill="black" />
+<rect x="-100000" y="-100000" width="1000000" height="1000000" fill="#222" />
 
 {content}
 </svg>
@@ -91,7 +93,7 @@ def main():
             content.append(RECTANGLE.format(x=-height * 3.5, y=(ybase + 0.5) * height, w=height * 3, h=height / 5, color="white"))
 
     with open(argv[2], "w") as f:
-        w = 500
+        w = 750
         h = (366 + 1) * height + 5 * height
         f.write(
             OVERALL.format(
