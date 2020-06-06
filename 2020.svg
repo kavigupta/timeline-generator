@@ -14,7 +14,7 @@
      x="0"
      y="110.00000000000001"
      font-size="20.0"
-     style="font-family:sans-serif;fill:#f88">Jan 03: US Asasinates Solemani</text>
+     style="font-family:sans-serif;fill:#f88">Jan 03: US Assassinated Solemani</text>
 
 <text
    xml:space="preserve"
@@ -77,7 +77,7 @@
      x="0"
      y="1660.0000000000002"
      font-size="20.0"
-     style="font-family:sans-serif;fill:#8f8">Feb 03: Iowa Caucus, utter debacle with app, win for Butigeg</text>
+     style="font-family:sans-serif;fill:#8f8">Feb 03: Iowa Caucus, utter debacle with app, win for Buttigieg</text>
 
 <text
    xml:space="preserve"
@@ -110,6 +110,13 @@
 <text
    xml:space="preserve"
      x="0"
+     y="2660.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#8ff">Feb 23: Ahmaud Arbery Murdered in Georgia, no arrests made</text>
+
+<text
+   xml:space="preserve"
+     x="0"
      y="2860.0"
      font-size="20.0"
      style="font-family:sans-serif;fill:#fe8">Feb 27: Fear of Covid causes Dow to drop 4.4%</text>
@@ -133,7 +140,7 @@
      x="0"
      y="3010.0"
      font-size="20.0"
-     style="font-family:sans-serif;fill:#8f8">Mar 01: Butigeg Drops out</text>
+     style="font-family:sans-serif;fill:#8f8">Mar 01: Buttigieg Drops out</text>
 
 <text
    xml:space="preserve"
@@ -154,7 +161,7 @@
      x="0"
      y="3160.0"
      font-size="20.0"
-     style="font-family:sans-serif;fill:#fe8">Mar 04: Newsome Declares a state of emergency over Covid</text>
+     style="font-family:sans-serif;fill:#fe8">Mar 04: Newsom Declares a state of emergency over Covid</text>
 
 <text
    xml:space="preserve"
@@ -217,7 +224,7 @@
      x="0"
      y="3760.0"
      font-size="10.0"
-     style="font-family:sans-serif;fill:#8ff">Mar 16: Breonna Taylor is killed by the police in Louiville during a no-knock raid</text>
+     style="font-family:sans-serif;fill:#8ff">Mar 16: Breonna Taylor is killed by the police in Louisville during a no-knock raid</text>
 
 <text
    xml:space="preserve"
@@ -329,7 +336,7 @@
      x="0"
      y="4280.0"
      font-size="20.0"
-     style="font-family:sans-serif;fill:#f88">Mar 26: Space Force launches its first satelite</text>
+     style="font-family:sans-serif;fill:#f88">Mar 26: Space Force launches its first satellite</text>
 
 <text
    xml:space="preserve"
@@ -476,6 +483,13 @@
      x="0"
      y="6360.0"
      font-size="20.0"
+     style="font-family:sans-serif;fill:#8ff">May 07: First charges in murder of Ahmaud Arbery case filed</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="6380.0"
+     font-size="20.0"
      style="font-family:sans-serif;fill:#88f">May 07: Case dropped against flynn</text>
 
 <text
@@ -511,7 +525,14 @@
      x="0"
      y="6986.666666666666"
      font-size="13.333333333333334"
-     style="font-family:sans-serif;fill:#8f8">May 19: Primaries in Kenntucky and Georgia</text>
+     style="font-family:sans-serif;fill:#8f8">May 19: Primaries in Kentucky and Georgia</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="7059.999999999999"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#8ff">May 21: Third person charged in Ahmaud Arbery case</text>
 
 <text
    xml:space="preserve"
@@ -629,6 +650,13 @@
    xml:space="preserve"
      x="0"
      y="7759.999999999999"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#8ff">Jun 04: Evidence that Ahmaud Arbery was hit by a truck comes out</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="7780.0"
      font-size="20.0"
      style="font-family:sans-serif;fill:#8ff">Jun 04: New fencing put up around White House</text>
 
