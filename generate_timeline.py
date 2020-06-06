@@ -1,6 +1,5 @@
 import csv
 from sys import argv
-import os
 from datetime import datetime
 from collections import defaultdict
 
@@ -104,6 +103,5 @@ def main():
                 h=h + 5 * height,
             )
         )
-    os.system(f'inkscape --export-type=\\"png\\" {argv[2]}')
 
 main()
