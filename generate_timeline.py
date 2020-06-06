@@ -63,7 +63,7 @@ def load_timeline(csv_file):
 
 def main():
     by_date = load_timeline(argv[1])
-    height = 20
+    height = 50
     content = []
 
     for date in sorted(by_date):
