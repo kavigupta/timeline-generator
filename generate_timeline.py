@@ -74,7 +74,7 @@ def main():
                 TEXT.format(
                     color="#" + color,
                     x=0,
-                    y=(i / k + date) * height,
+                    y=(i * 0.8 / k + 0.2 + date) * height,
                     text=headline,
                     size=used_height,
                 )
