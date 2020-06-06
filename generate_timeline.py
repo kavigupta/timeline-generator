@@ -8,6 +8,7 @@ OVERALL = """
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 
 <svg
+    xmlns="http://www.w3.org/2000/svg"
     width="210mm"
     height="297mm"
     viewBox="{x0} {y0} {w} {h}"
