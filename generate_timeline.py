@@ -9,8 +9,6 @@ OVERALL = """
 
 <svg
     xmlns="http://www.w3.org/2000/svg"
-    width="210mm"
-    height="297mm"
     viewBox="{x0} {y0} {w} {h}"
     version="1.1">
 <rect x="-100000" y="-100000" width="1000000" height="1000000" fill="black" />
