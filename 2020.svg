@@ -632,6 +632,13 @@
      font-size="20.0"
      style="font-family:sans-serif;fill:#8ff">Jun 04: New fencing put up around White House</text>
 
+<text
+   xml:space="preserve"
+     x="0"
+     y="7809.999999999999"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#888">Jun 05: Date this was last updated</text>
+
 <rect x="-50" y="-25.0" width="10.0" height= "18300" fill="white"/>
 
 <rect x="-175.0" y="-25.0" width="150" height= "10.0" fill="white"/>
