@@ -93,7 +93,7 @@ def main():
             content.append(RECTANGLE.format(x=-height * 3.5, y=(ybase + 0.5) * height, w=height * 3, h=height / 5, color="white"))
 
     with open(argv[2], "w") as f:
-        w = 750
+        w = 1200
         h = (366 + 1) * height + 5 * height
         f.write(
             OVERALL.format(
