@@ -26,6 +26,13 @@
 <text
    xml:space="preserve"
      x="0"
+     y="380.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#f88">Jan 08: Iran accidentally shoots down Ukraine International Airlines Flight 752</text>
+
+<text
+   xml:space="preserve"
+     x="0"
      y="409.99999999999994"
      font-size="20.0"
      style="font-family:sans-serif;fill:#f88">Jan 09: House passes War powers resolution to limit president's power</text>
@@ -40,6 +47,13 @@
 <text
    xml:space="preserve"
      x="0"
+     y="680.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#f88">Jan 14: 46 million hectares burning in Australia</text>
+
+<text
+   xml:space="preserve"
+     x="0"
      y="760.0"
      font-size="20.0"
      style="font-family:sans-serif;fill:#88f">Jan 16: Impeachment Trial Begins</text>
@@ -50,6 +64,13 @@
      y="1010.0"
      font-size="20.0"
      style="font-family:sans-serif;fill:#fe8">Jan 21: First Covid case in US</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="1110.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#f88">Jan 23: Last death in the 2019-20 Australia Fire</text>
 
 <text
    xml:space="preserve"
@@ -89,6 +110,13 @@
 <text
    xml:space="preserve"
      x="0"
+     y="1860.0000000000002"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#f88">Feb 07: Almost all fires extinguished by rain in Australia</text>
+
+<text
+   xml:space="preserve"
+     x="0"
      y="2060.0"
      font-size="20.0"
      style="font-family:sans-serif;fill:#8f8">Feb 11: New Hampshire Primary, win for Bernie</text>
@@ -113,6 +141,13 @@
      y="2660.0"
      font-size="20.0"
      style="font-family:sans-serif;fill:#8ff">Feb 23: Ahmaud Arbery Murdered in Georgia, no arrests made</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="2680.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#f88">Feb 23: Hindu anti-muslim riots that kill 53 people begin in Delhi</text>
 
 <text
    xml:space="preserve"
@@ -481,6 +516,13 @@
 <text
    xml:space="preserve"
      x="0"
+     y="6310.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#8ff">May 06: Ahmaud Arbery Tape released and goes viral, causing outrage about the lack of arrests</text>
+
+<text
+   xml:space="preserve"
+     x="0"
      y="6360.0"
      font-size="20.0"
      style="font-family:sans-serif;fill:#8ff">May 07: First charges in murder of Ahmaud Arbery case filed</text>
@@ -665,7 +707,49 @@
      x="0"
      y="7809.999999999999"
      font-size="20.0"
-     style="font-family:sans-serif;fill:#888">Jun 05: Date this was last updated</text>
+     style="font-family:sans-serif;fill:#8ff">Jun 05: DC Mayor designates a 2 block section of 16th street NW as Black Lives Matter Plaza</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="7909.999999999999"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#8ff">Jun 07: Veto-Proof Majority of Minneapolis City Council Says they plan to disband the police</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="7959.999999999999"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#8ff">Jun 08: Capitol Hill Autonomous Zone declared in Seattle</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="7980.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#888">Jun 08: Golden Gate Bridge starts making a weird sound</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="8059.999999999999"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#8ff">Jun 10: Minneapolis Withdraws from negociations with union</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="8080.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Jun 10: US Passes 2 million COVID cases</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="8109.999999999999"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#888">Jun 11: Date this was last updated</text>
 
 <rect x="-50" y="-25.0" width="10.0" height= "18300" fill="white"/>
 
