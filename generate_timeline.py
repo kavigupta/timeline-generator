@@ -3,6 +3,14 @@ from sys import argv
 from datetime import datetime
 from collections import defaultdict
 
+import io
+
+from urllib.request import urlopen
+
+SHEET_ID = "19xUK5tN_PVhm6b-CyYZ3nZTwmfNtmS6MbikNQJWVN3k"
+
+TIMELINE_DATA = "https://docs.google.com/spreadsheets/d/{0}/export?format=csv&id={0}&gid=0".format(SHEET_ID)
+
 OVERALL = """
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 
@@ -43,9 +51,10 @@ CATEGORIES = {
 START = datetime(2020, 1, 1)
 
 
-def load_timeline(csv_file):
-    with open(csv_file) as f:
-        header, *data = list(csv.reader(f))
+def load_timeline():
+    with urlopen(TIMELINE_DATA) as f:
+        data = f.read().decode('utf-8')
+    header, *data = list(csv.reader(io.StringIO(data)))
 
     assert header == ["Date", "Category", "Headline"]
 
@@ -61,7 +70,8 @@ def load_timeline(csv_file):
 
 
 def main():
-    by_date = load_timeline(argv[1])
+
+    by_date = load_timeline()
     height = 50
     content = []
 
@@ -91,7 +101,7 @@ def main():
         for ybase in start, end:
             content.append(RECTANGLE.format(x=-height * 3.5, y=(ybase + 0.5) * height, w=height * 3, h=height / 5, color="white"))
 
-    with open(argv[2], "w") as f:
+    with open(argv[1], "w") as f:
         w = 1200
         h = (366 + 1) * height + 5 * height
         f.write(
