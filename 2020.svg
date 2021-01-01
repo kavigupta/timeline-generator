@@ -14,7 +14,7 @@
      x="0"
      y="110.00000000000001"
      font-size="20.0"
-     style="font-family:sans-serif;fill:#f88">Jan 03: US Assassinated Solemani</text>
+     style="font-family:sans-serif;fill:#f88">Jan 03: US Assassinates Solemani</text>
 
 <text
    xml:space="preserve"
@@ -231,7 +231,7 @@
      x="0"
      y="3460.0"
      font-size="20.0"
-     style="font-family:sans-serif;fill:#fe8">Mar 10: US Hits 1000 cases</text>
+     style="font-family:sans-serif;fill:#fe8">Mar 10: US Hits 1k cases</text>
 
 <text
    xml:space="preserve"
@@ -314,15 +314,22 @@
    xml:space="preserve"
      x="0"
      y="3910.0"
-     font-size="20.0"
+     font-size="13.333333333333334"
      style="font-family:sans-serif;fill:#fe8">Mar 19: CA Issues shelter in place</text>
 
 <text
    xml:space="preserve"
      x="0"
-     y="3929.9999999999995"
-     font-size="20.0"
+     y="3923.3333333333335"
+     font-size="13.333333333333334"
      style="font-family:sans-serif;fill:#fe8">Mar 19: Unemployment Numbers Released Showing 33% increase in claims over prior week</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="3936.6666666666665"
+     font-size="13.333333333333334"
+     style="font-family:sans-serif;fill:#fe8">Mar 19: US hits 10k covid cases</text>
 
 <text
    xml:space="preserve"
@@ -350,7 +357,7 @@
      x="0"
      y="4210.0"
      font-size="20.0"
-     style="font-family:sans-serif;fill:#fe8">Mar 25: US Passes 1000 Covid deaths</text>
+     style="font-family:sans-serif;fill:#fe8">Mar 25: US hits 1k Covid deaths</text>
 
 <text
    xml:space="preserve"
@@ -372,6 +379,13 @@
      y="4280.0"
      font-size="20.0"
      style="font-family:sans-serif;fill:#f88">Mar 26: Space Force launches its first satellite</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="4310.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Mar 27: US hits 100k covid cases</text>
 
 <text
    xml:space="preserve"
@@ -490,7 +504,7 @@
      x="0"
      y="5880.0"
      font-size="20.0"
-     style="font-family:sans-serif;fill:#fe8">Apr 27: US passes 1 million Covid cases</text>
+     style="font-family:sans-serif;fill:#fe8">Apr 27: US hits 1m covid cases</text>
 
 <text
    xml:space="preserve"
@@ -553,7 +567,7 @@
      x="0"
      y="6959.999999999999"
      font-size="13.333333333333334"
-     style="font-family:sans-serif;fill:#fe8">May 19: US passes 1.5 million cases and 90000 deaths</text>
+     style="font-family:sans-serif;fill:#fe8">May 19: US hits 1.5 million cases and 90000 deaths</text>
 
 <text
    xml:space="preserve"
@@ -602,7 +616,7 @@
      x="0"
      y="7373.333333333333"
      font-size="13.333333333333334"
-     style="font-family:sans-serif;fill:#fe8">May 27: 100,000 Covid deaths in US</text>
+     style="font-family:sans-serif;fill:#fe8">May 27: US hits 100k covid deaths</text>
 
 <text
    xml:space="preserve"
@@ -742,14 +756,651 @@
      x="0"
      y="8080.0"
      font-size="20.0"
-     style="font-family:sans-serif;fill:#fe8">Jun 10: US Passes 2 million COVID cases</text>
+     style="font-family:sans-serif;fill:#fe8">Jun 10: US hits 2 million cases</text>
 
 <text
    xml:space="preserve"
      x="0"
-     y="8109.999999999999"
+     y="8159.999999999999"
      font-size="20.0"
-     style="font-family:sans-serif;fill:#888">Jun 11: Date this was last updated</text>
+     style="font-family:sans-serif;fill:#8ff">Jun 12: Minneapolis City council votes to disband the police and replace it, but it can't do it by the charter</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="8260.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Jun 14: Cases rise to 25k, highest since may</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="8310.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Jun 15: Discrimination against trans people made illegal by supreme court</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="8560.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Jun 20: Trump's Tulsa rally</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="8810.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Jun 25: New record of 40k total cases</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="8860.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Jun 26: Story comes out about Russia paying bounties for Taliban linked militants</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="9010.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Jun 29: AZ closes businesses for a month</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="9160.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Jul 02: Ghislaine Maxwelle arrested</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="9460.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Jul 08: US hits 3 million cases</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="9560.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Jul 10: Trump commutes sentence of Roger Stone</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="9660.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#f88">Jul 12: Explosion on navy ship in san diego</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="9760.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Jul 14: Moderna trial announced</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="9810.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#888">Jul 15: Bitcoin hack on twitter</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="9830.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#888">Jul 15: Kemp voids all local covid restrictions</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="9960.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#8ff">Jul 18: Oregon sues feds over black van arrests</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="10260.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#8ff">Jul 24: Trump revokes part of the fair housing act</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="10310.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#888">Jul 25: Hurricane Hanna hits texas</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="10510.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#8ff">Jul 29: Withdrawl of federal forces from OR</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="10560.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Jul 30: Trump suggests delaying the presidential election</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="10760.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#888">Aug 03: Hurricane Isais hits NC</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="10780.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#888">Aug 03: Apple fire in east LA</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="10910.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Aug 06: AG of NY sues NRA</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="10960.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Aug 07: Giant Sturgis motorcycle rally happens</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="11060.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Aug 09: US hits 5 million cases</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="11160.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Aug 11: Biden names Haaris VP nominee</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="11460.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Aug 17: DNC occurs</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="11510.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Aug 18: DeJoy begins postal service crisis</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="11760.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#8ff">Aug 23: Jacob Blake shot in Kenosha</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="11810.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Aug 24: RNC occurs</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="12260.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#8ff">Sep 02: Body camera footage of march killing of Daniel Prude released</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="12610.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Sep 09: Woodward releases tape from February showing that Trump knew covid was bad</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="13060.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Sep 18: RBG dies</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="13260.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Sep 22: US hits 200k covid deaths</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="13310.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Sep 23: Trump refuses to commit to a peaceful transfer of power</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="13460.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Sep 26: Trump names ACB to the court</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="13510.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Sep 27: NYT releases article about Trump avoiding tax for years</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="13610.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Sep 29: Chaotic first presidential debate</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="13710.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Oct 01: Rose garden cases come out: Trump, Pence, Conway, Hicks</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="13810.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Oct 03: Several senators come down with Covid</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="13910.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Oct 05: Trump recovers from covid and leaves the hospital</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="14060.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Oct 08: Whitmer kidnapping plot foiled</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="14080.000000000002"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Oct 08: NEJM endorses Biden</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="14110.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#888">Oct 09: Hurricane Delta hits LA</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="14260.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Oct 12: Senate Judiciary Comittee starts hearings on ACB</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="14460.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Oct 16: US passes 8m cases</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="14610.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Oct 19: Supreme court denies attempt to limit mail voitng in PA</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="14760.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Oct 22: Senate judicary comittee advances ACB</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="14780.000000000002"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Oct 22: Second/Third presidential debate</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="14960.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Oct 26: Supreme court rules that late arriving mail votes in WI don't count</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="14980.000000000002"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Oct 26: Senate confirms ACB</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="15160.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Oct 30: US is first country to have 100k cases per day</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="15210.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Oct 31: Cuomo closes borders to non-tested-negative visitors</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="15360.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Nov 03: Election day</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="15510.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Nov 06: MI passes 200k cases, TX passes 1m cases</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="15560.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Nov 07: Biden declared winner of the 2020 electino</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="15660.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Nov 09: US hits 10m cases</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="15680.000000000002"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Nov 09: Trump files fraud lawsuits</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="15710.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Nov 10: Trump names loyalists to top posts in DoD</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="15810.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Nov 12:  CA hits 1m cases</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="15860.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Nov 13: Biden declared winner in AZ and GA</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="15880.000000000002"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Nov 13: OR and ND put in place new covid restrictions</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="15910.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Nov 14: March for Trump in DC</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="15960.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Nov 15: Trump says Biden won election but election was rigged</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="16110.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Nov 18: US passes 250k deaths</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="16160.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Nov 19: Newsome issues a curfew for purple counties</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="16180.000000000002"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Nov 19: GA recount ends with no change to result</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="16210.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Nov 20: GA and Maricopa certify</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="16260.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Nov 21: Federal judge blocks Trump's attempt to stop certification of PA results</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="16360.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Nov 23: GSA allows transition to begin</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="16410.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Nov 24: PA certifies election</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="16560.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Nov 27: US hits 13m cases</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="16580.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Nov 27: Federal appeals court rejects again Trump attempt to block PA certification</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="16660.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Nov 29: WI recount finishes, no change to result</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="16760.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Dec 01: FL hits 1m cases</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="16810.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Dec 02: Mark Kelly comes to power in AZ</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="16830.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Dec 02: US hits 100k daily cases</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="16860.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#8ff">Dec 03: Rittenhouse has to stand trial for homocide in WI</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="16910.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Dec 04: CA certifies election, giving Biden 270 EV</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="17060.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Dec 07: Whitmer expands lockdown after MI hits 400k cases</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="17110.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Dec 08: US hits 15m cases</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="17160.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Dec 09: US has 3k daily deaths</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="17260.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Dec 11: TX's case to overturn the election denied</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="17280.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Dec 11: CA hits a new record of 35k cases in one day</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="17310.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Dec 12: Proud boy rally in DC</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="17360.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Dec 13: Pfizer announces beginning of vacicne shipments</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="17410.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Dec 14: EC votes to make Biden the president</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="17430.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Dec 14: US hits 300k deaths</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="17710.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Dec 20: McConell announces congress has reached a deal on covid relief</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="17860.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Dec 23: Trump pardons blackwater war criminals as well as associates</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="17910.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#fe8">Dec 24: CA is first state to pass 1m cases</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="17960.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#88f">Dec 25: Terrorist car bomb attack hits Nashville</text>
+
+<text
+   xml:space="preserve"
+     x="0"
+     y="18160.0"
+     font-size="20.0"
+     style="font-family:sans-serif;fill:#8ff">Dec 29: No charges against officers who killed Tamir rice</text>
 
 <rect x="-50" y="-25.0" width="10.0" height= "18300" fill="white"/>
 
